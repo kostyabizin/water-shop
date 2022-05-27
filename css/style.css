@@ -102,7 +102,7 @@
 /* Slider */
 
 .slick-loading .slick-list {
-  background: #fff url("../../../img/ajax-loader.gif") center center no-repeat;
+  background: #fff url("./../img/ajax-loader.gif") center center no-repeat;
 }
 
 /* Arrows */
@@ -137,12 +137,12 @@
 }
 
 .slick-prev {
-  background-image: url("../../../img/icons/arrow-left.svg");
+  background-image: url("./../img/icons/arrow-left.svg");
   transform: translate(-50%, -50%);
 }
 
 .slick-next {
-  background-image: url("../../../img/icons/arrow-right.svg");
+  background-image: url("./../img/icons/arrow-right.svg");
   transform: translate(50%, -50%);
 }
 
@@ -1432,7 +1432,7 @@ button.datepick-cmd {
 
 .custom-checkbox__input:checked+label:after,
 .custom-checkbox__input:not(:checked)+label:after {
-  background-image: url("../../../img/icons/check--white.svg");
+  background-image: url("./../img/icons/check--white.svg");
   background-size: 80%;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1747,7 +1747,7 @@ button.datepick-cmd {
   margin: -15px 0 0 -15px;
   width: 30px;
   height: 30px;
-  background: url("../../../img/icons/loading.svg");
+  background: url("./../img/icons/loading.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -3103,7 +3103,7 @@ body.visible {
 .introduce {
   position: relative;
   padding-top: 28rem;
-  background-image: linear-gradient(to bottom, rgba(9, 54, 110, 0.55) 0%, rgba(56, 102, 184, 0.55) 100%), url("../../../img/bckgrnd/introduce.png");
+  background-image: linear-gradient(to bottom, rgba(9, 54, 110, 0.55) 0%, rgba(56, 102, 184, 0.55) 100%), url("./../img/bckgrnd/introduce.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
@@ -3171,7 +3171,7 @@ body.visible {
   z-index: 1;
   width: 100%;
   height: 100%;
-  background-image: url("../../../img/product/bottle--big.png");
+  background-image: url("./../img/product/bottle--big.png");
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-position: bottom center;
@@ -3220,7 +3220,7 @@ body.visible {
   transform: translate(0, 40%);
   width: 29rem;
   height: 29rem;
-  background-image: url("../../../img/icons/dots.svg");
+  background-image: url("./../img/icons/dots.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -3646,7 +3646,7 @@ body.visible {
   position: relative;
   padding-top: 20rem;
   padding-bottom: 34rem;
-  background-image: url("../../../img/bckgrnd/spots.svg"), linear-gradient(179.67deg, #05D8FC -5.13%, #0597DD 99.65%);
+  background-image: url("./../img/bckgrnd/spots.svg"), linear-gradient(179.67deg, #05D8FC -5.13%, #0597DD 99.65%);
 }
 
 .advantage__title {
@@ -3719,7 +3719,7 @@ body.visible {
   padding-left: 5rem;
   padding-right: 5rem;
   color: #091A2F;
-  background-image: url("../../../img/bckgrnd/dashLines.svg");
+  background-image: url("./../img/bckgrnd/dashLines.svg");
   background-size: 60%;
   background-repeat: no-repeat;
   background-position: center center;
@@ -4350,7 +4350,7 @@ body.visible {
   top: 1.7rem;
   width: 2.7rem;
   height: 2.7rem;
-  background-image: url("../../../img/icons/range.svg");
+  background-image: url("./../img/icons/range.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -4412,7 +4412,7 @@ body.visible {
   width: 40.4rem;
   height: 40.4rem;
   margin-bottom: 8.9rem;
-  background-image: url("../../../img/product/cooler.png");
+  background-image: url("./../img/product/cooler.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -4535,7 +4535,7 @@ body.visible {
   width: 26.4rem;
   height: 26.4rem;
   margin-bottom: 8.7rem;
-  background-image: url("../../../img/product/cooler.png");
+  background-image: url("./../img/product/cooler.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -4817,7 +4817,7 @@ body.visible {
   width: 34.5rem;
   height: 34.5rem;
   margin-bottom: 2rem;
-  background-image: url("../../../img/product/bottle-sm.png");
+  background-image: url("./../img/product/bottle-sm.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -5641,7 +5641,7 @@ body.visible {
 
 .order__item--small .custom-checkbox__radio:checked + label:after,
 .order__item--small .custom-checkbox__radio:not(:checked) + label:after {
-  background-image: url("../../../img/icons/check--white.svg");
+  background-image: url("./../img/icons/check--white.svg");
   background-size: 80%;
   background-repeat: no-repeat;
   background-position: center center;
@@ -5914,7 +5914,7 @@ body.visible {
   width: 1rem;
   height: 2rem;
   transform: scale(-1, 1);
-  background-image: url("../../../img/icons/arrow-datepicker.svg");
+  background-image: url("./../img/icons/arrow-datepicker.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -5923,7 +5923,7 @@ body.visible {
 .datepick .datepick-cmd-next {
   width: 1rem;
   height: 2rem;
-  background-image: url("../../../img/icons/arrow-datepicker.svg");
+  background-image: url("./../img/icons/arrow-datepicker.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -6246,12 +6246,12 @@ input.ymaps-2-1-78-searchbox-input__input,
 
   .advantage__block .slick-prev {
     left: 0;
-    background-image: url("../../../img/icons/arrow-left--white.svg");
+    background-image: url("./../img/icons/arrow-left--white.svg");
   }
 
   .advantage__block .slick-next {
     right: 0;
-    background-image: url("../../../img/icons/arrow-right--white.svg");
+    background-image: url("./../img/icons/arrow-right--white.svg");
   }
 
   .advantage__item {
@@ -7203,7 +7203,7 @@ input.ymaps-2-1-78-searchbox-input__input,
 
   .consist__block {
     padding: 0;
-    background-image: url("../../../img/bckgrnd/dashLines--sm.svg");
+    background-image: url("./../img/bckgrnd/dashLines--sm.svg");
     background-position: center center;
     background-size: contain;
   }
@@ -7298,12 +7298,12 @@ input.ymaps-2-1-78-searchbox-input__input,
 
   .certificate .slick-prev {
     left: 0;
-    background-image: url("../../../img/icons/arrow-left--white.svg");
+    background-image: url("./../img/icons/arrow-left--white.svg");
   }
 
   .certificate .slick-next {
     right: 0;
-    background-image: url("../../../img/icons/arrow-right--white.svg");
+    background-image: url("./../img/icons/arrow-right--white.svg");
   }
 
   .certificate__title {
