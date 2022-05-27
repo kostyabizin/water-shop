@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 193.6 439.43">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-3,
+            .cls-4 {
+                fill: none;
+            }
+
+            .cls-1 {
+                stroke: #d9dce2;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+                opacity: 0.5;
+                isolation: isolate;
+            }
+
+            .cls-2 {
+                fill: #fff;
+            }
+
+            .cls-3 {
+                stroke: #00cafd;
+            }
+
+            .cls-3,
+            .cls-4 {
+                stroke-width: 2px;
+            }
+
+            .cls-4 {
+                stroke: url(#Безымянный_градиент);
+            }
+        </style>
+
+        <linearGradient id="Безымянный_градиент" x1="95.22" y1="386.01" x2="99.83" y2="9.84"
+            gradientTransform="matrix(1, 0, 0, -1, 0, 448)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#05d8fc" />
+            <stop offset="1" stop-color="#0597dd" />
+        </linearGradient>
+    </defs>
+    <title>Ресурс 1</title>
+    <g id="Слой_2" data-name="Слой 2">
+        <g id="Слой_1-2" data-name="Слой 1">
+            <path class="cls-1" d="M29.86,80.25C9.11,86.9.5,112.35.5,137.4" />
+            <path class="cls-1" d="M193.1,238c0,21.14-14.88,33.27-28.58,33.27" />
+            <path class="cls-1" d="M38.86,325.69V384.8" />
+            <circle class="cls-2" cx="96.8" cy="36.01" r="36.01" />
+            <path class="cls-2"
+                d="M13,141.42v99.92a14.29,14.29,0,0,0,28.57,
+                0V142.4a5,5,0,0,1,5-5h.18a5,5,0,0,1,5,5V418.08a20.36,20.36,0,0,0,40.71,0V259.93a4.31,4.31,0,1,1,8.62,0V418.27a20.16,20.16,0,0,0,40.32,0V141.32a4.31,4.31,0,1,1,8.61,0V240a15.66,15.66,0,1,0,31.31,0V141.42a60,60,0,0,0-60-60H73A60,60,0,0,0,13,141.42Z" />
+            <circle class="cls-3" cx="96.8" cy="36.01" r="35.01" />
+            <path class="cls-4"
+                d="M13,141.42v99.33a14.88,14.88,0,0,0,29.75,0V141.32a4.31,4.31,0,1,1,8.61,0V418.06a20.38,20.38,0,0,0,40.76,0l.33-158.17a4.32,4.32,0,0,1,8.63,0l.34,158.17a20.38,20.38,0,0,0,40.76,0V141.32a4.31,4.31,0,1,1,8.61,0v99.43a14.88,14.88,0,0,0,29.75,0V141.42a60,60,0,0,0-60-60H73A60,60,0,0,0,13,141.42Z" />
+        </g>
+    </g>
+</svg>

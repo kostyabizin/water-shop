@@ -1,0 +1,23 @@
+<svg width="328" height="476" viewBox="0 0 328 476" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle r="4" transform="matrix(0.866025 0.5 0.5 -0.866025 101.147 200.319)" stroke="#D9DCE2"/>
+<path d="M106.775 203.569L111.972 206.569" stroke="#D9DCE2" stroke-linecap="round" stroke-dasharray="1 4"/>
+<circle r="4" transform="matrix(0.866025 0.5 0.5 -0.866025 117.602 209.819)" stroke="#D9DCE2"/>
+<circle r="4" transform="matrix(0.861629 -0.507538 -0.507538 -0.861629 213.189 209.804)" stroke="#D9DCE2"/>
+<path d="M218.789 206.505L223.959 203.46" stroke="#D9DCE2" stroke-linecap="round" stroke-dasharray="1 4"/>
+<circle r="4" transform="matrix(0.861629 -0.507538 -0.507538 -0.861629 229.56 200.161)" stroke="#D9DCE2"/>
+<circle cx="189.689" cy="290.98" r="4" transform="rotate(65 189.689 290.98)" stroke="#D9DCE2"/>
+<path d="M192.436 296.871L220.328 356.688" stroke="#D9DCE2" stroke-linecap="round" stroke-dasharray="1 4"/>
+<circle cx="223.075" cy="362.578" r="4" transform="rotate(65 223.075 362.578)" stroke="#D9DCE2"/>
+<circle r="4" transform="matrix(0.422618 -0.906308 -0.906308 -0.422618 189.689 185.849)" stroke="#00CAFD"/>
+<path d="M192.436 179.958L220.328 120.142" stroke="#00CAFD" stroke-linecap="round" stroke-dasharray="1 4"/>
+<circle r="4" transform="matrix(0.422618 -0.906308 -0.906308 -0.422618 223.075 114.251)" stroke="#00CAFD"/>
+<circle cx="213.162" cy="266.161" r="4" transform="rotate(30.5 213.162 266.161)" stroke="#D9DCE2"/>
+<path d="M218.762 269.46L223.931 272.505" stroke="#D9DCE2" stroke-linecap="round" stroke-dasharray="1 4"/>
+<circle cx="229.533" cy="275.804" r="4" transform="rotate(30.5 229.533 275.804)" stroke="#D9DCE2"/>
+<circle cx="100.98" cy="362.849" r="4" transform="rotate(-65 100.98 362.849)" stroke="#D9DCE2"/>
+<path d="M103.727 356.958L131.619 297.142" stroke="#D9DCE2" stroke-linecap="round" stroke-dasharray="1 4"/>
+<circle cx="134.367" cy="291.251" r="4" transform="rotate(-65 134.367 291.251)" stroke="#D9DCE2"/>
+<circle r="4" transform="matrix(0.422618 0.906308 0.906308 -0.422618 100.98 113.98)" stroke="#00CAFD"/>
+<path d="M103.727 119.871L131.619 179.688" stroke="#00CAFD" stroke-linecap="round" stroke-dasharray="1 4"/>
+<circle r="4" transform="matrix(0.422618 0.906308 0.906308 -0.422618 134.367 185.578)" stroke="#00CAFD"/>
+</svg>
